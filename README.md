@@ -94,5 +94,6 @@ The most fun part seems to be designing the case for it.
 
 <img src="3d_part/Top_view.png" width="400"/>
 <img src="3d_part/Bot_view.png" width="400"/>
+<img src="3d_part/Real.jpg" width="400"/>
 
 With the boot button at the bottom, we can reprogram it via bootloader.
